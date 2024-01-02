@@ -147,9 +147,9 @@ Software Developer
 
 <b> Codewars Stats</b>
 <p align="left" dir="auto">
-  <a href="https://www.codewars.com/users/noxlumomagna" rel="nofollow"><img src="https://www.codewars.com/users/noxlumomagna/badges/large" style="max-width: 100%;"></a>
+  <a href="(https://www.codewars.com/users/Derick%20Nguyen)" rel="nofollow"><img src="https://www.codewars.com/users/Derick%20Nguyen/badges/large" style="max-width: 100%;"></a>
 </p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/noxlumomagna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noxlumomagna&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/derickcnguyen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=noxlumomagna&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
