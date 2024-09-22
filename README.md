@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Derick Nguyen</h1>
-<h3 align="center">A passionate Developer from Philadelphia -> Seattle</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derickcnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="derickcnguyen" /> </p>
-
+<h1 align="left">Hi 👋, I'm Derick Nguyen</h1>
+<h3 align="left">A passionate Developer from Philadelphia -> Seattle</h3>
 <p align="left"> <a href="https://twitter.com/1dericknguyen" target="blank"><img src="https://img.shields.io/twitter/follow/1dericknguyen?logo=twitter&style=for-the-badge" alt="1dericknguyen" /></a> </p>
 
 - 🔭 I’m currently working on **things in Python and Go**
@@ -26,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derickcnguyen&show_icons=true&locale=en&layout=compact" alt="derickcnguyen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derickcnguyen&show_icons=true&locale=en" alt="derickcnguyen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=derickcnguyen&show_icons=true&locale=en" alt="derickcnguyen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derickcnguyen&" alt="derickcnguyen" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=derickcnguyen&" alt="derickcnguyen" /></p>
