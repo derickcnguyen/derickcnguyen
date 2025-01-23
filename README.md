@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 👨‍💻 All of my projects are available at [dcnguyen.netlify.app](https://dcnguyen.netlify.app/)
+- 👨‍💻 All of my projects are available at [dericknguyen.dev](https://dericknguyen.dev/)
 
 - 💬 Ask me about **Tennis, Development, Weights**
 
