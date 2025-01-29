@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Derick Nguyen</h1>
-<h3 align="left">A passionate Developer from Philadelphia -> Seattle</h3>
+<h3 align="left">A passionate Developer from Philadelphia</h3>
 
 - 🔭 I’m currently working on **things in Python and Go**
 
